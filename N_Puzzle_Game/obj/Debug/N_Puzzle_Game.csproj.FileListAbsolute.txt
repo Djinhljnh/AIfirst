@@ -37,3 +37,18 @@ C:\Users\Ahmad Kandil\Documents\GitHub\Puzzle\N_Puzzle_Game\obj\Debug\N_Puzzle_G
 C:\Users\Ahmad Kandil\Documents\GitHub\Puzzle\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.UserControl_Puzzle_Pictures.resources
 C:\Users\Ahmad Kandil\Documents\GitHub\Puzzle\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.UserControl_Need.resources
 C:\Users\Ahmad Kandil\Documents\GitHub\Puzzle\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\bin\Debug\N_Puzzle_Game.exe.config
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\bin\Debug\N_Puzzle_Game.exe
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\bin\Debug\N_Puzzle_Game.pdb
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.Eight_Puzzle.resources
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.Fifteen_Puzzle.resources
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.Start_Window.resources
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.UserControl_Puzzle_Numbers.resources
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.UserControl_Puzzle_Pictures.resources
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.UserControl_Need.resources
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.exe
+C:\Users\HP\Documents\GitHub\AIfirst\N_Puzzle_Game\obj\Debug\N_Puzzle_Game.pdb

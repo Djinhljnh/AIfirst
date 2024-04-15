@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\view\\fifteen_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|c:\\users\\hp\\documents\\github\\aifirst\\n_puzzle_game\\view\\fifteen_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\view\\fifteen_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\view\\start_window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|c:\\users\\hp\\documents\\github\\aifirst\\n_puzzle_game\\view\\eight_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\view\\eight_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\view\\eight_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -23,15 +23,15 @@
       "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\view\\eight_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|c:\\users\\hp\\documents\\github\\aifirst\\n_puzzle_game\\model\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\model\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\model\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|c:\\users\\hp\\documents\\github\\aifirst\\n_puzzle_game\\model\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\model\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\model\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|c:\\users\\hp\\documents\\github\\aifirst\\n_puzzle_game\\model\\need.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\model\\need.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\model\\need.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "N_Puzzle_Game\\Model\\trie.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:59:28.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T12:59:28.899Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "N_Puzzle_Game\\Model\\node.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:59:25.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T12:59:25.948Z"
             },
             {
               "$type": "Document",
@@ -82,7 +80,7 @@
               "RelativeDocumentMoniker": "N_Puzzle_Game\\View\\Fifteen_Puzzle.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Fifteen_Puzzle.cs",
               "RelativeToolTip": "N_Puzzle_Game\\View\\Fifteen_Puzzle.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAowG4AAAANAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowGgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T12:48:56.342Z",
               "EditorCaption": ""
@@ -96,8 +94,7 @@
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Start_Window.cs [Design]",
               "RelativeToolTip": "N_Puzzle_Game\\View\\Start_Window.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:48:47.094Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-15T12:48:47.094Z"
             },
             {
               "$type": "Document",
@@ -108,8 +105,7 @@
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Fifteen_Puzzle.cs [Design]",
               "RelativeToolTip": "N_Puzzle_Game\\View\\Fifteen_Puzzle.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:48:44.241Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-15T12:48:44.241Z"
             },
             {
               "$type": "Document",
@@ -121,8 +117,7 @@
               "RelativeToolTip": "N_Puzzle_Game\\View\\Eight_Puzzle.cs",
               "ViewState": "AQIAAGUAAAAAAAAAAAAswEoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:48:28.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T12:48:28.742Z"
             },
             {
               "$type": "Document",
@@ -133,8 +128,7 @@
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Eight_Puzzle.cs [Design]",
               "RelativeToolTip": "N_Puzzle_Game\\View\\Eight_Puzzle.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:48:24.078Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-15T12:48:24.078Z"
             },
             {
               "$type": "Document",
@@ -146,8 +140,7 @@
               "RelativeToolTip": "N_Puzzle_Game\\Model\\Need.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:59:17.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T12:59:17.668Z"
             },
             {
               "$type": "Document",
@@ -159,8 +152,7 @@
               "RelativeToolTip": "N_Puzzle_Game\\Model\\a_star.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:48:19.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T12:48:19.393Z"
             }
           ]
         }
