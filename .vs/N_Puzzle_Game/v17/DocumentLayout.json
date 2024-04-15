@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\view\\fifteen_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\view\\fifteen_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\view\\fifteen_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\view\\fifteen_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\view\\start_window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\view\\start_window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|c:\\users\\hp\\documents\\github\\aifirst\\n_puzzle_game\\view\\eight_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\view\\eight_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\view\\eight_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\view\\eight_puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|c:\\users\\hp\\documents\\github\\aifirst\\n_puzzle_game\\model\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\model\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|c:\\users\\hp\\documents\\github\\aifirst\\n_puzzle_game\\model\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\model\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|c:\\users\\hp\\documents\\github\\aifirst\\n_puzzle_game\\model\\need.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\model\\need.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\n_puzzle_game\\model\\a_star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A52C6E-DE3C-4F1C-BB04-C039D9B3AC97}|N_Puzzle_Game\\N_Puzzle_Game.csproj|solutionrelative:n_puzzle_game\\model\\a_star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "trie.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\Model\\trie.cs",
+              "RelativeDocumentMoniker": "N_Puzzle_Game\\Model\\trie.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\Model\\trie.cs",
+              "RelativeToolTip": "N_Puzzle_Game\\Model\\trie.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:59:28.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "node.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\Model\\node.cs",
+              "RelativeDocumentMoniker": "N_Puzzle_Game\\Model\\node.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\Model\\node.cs",
+              "RelativeToolTip": "N_Puzzle_Game\\Model\\node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:59:25.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fifteen_Puzzle.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Fifteen_Puzzle.cs",
+              "RelativeDocumentMoniker": "N_Puzzle_Game\\View\\Fifteen_Puzzle.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Fifteen_Puzzle.cs",
+              "RelativeToolTip": "N_Puzzle_Game\\View\\Fifteen_Puzzle.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowG4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:48:56.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Start_Window.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Start_Window.cs",
+              "RelativeDocumentMoniker": "N_Puzzle_Game\\View\\Start_Window.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Start_Window.cs [Design]",
+              "RelativeToolTip": "N_Puzzle_Game\\View\\Start_Window.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:48:47.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fifteen_Puzzle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Fifteen_Puzzle.cs",
+              "RelativeDocumentMoniker": "N_Puzzle_Game\\View\\Fifteen_Puzzle.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Fifteen_Puzzle.cs [Design]",
+              "RelativeToolTip": "N_Puzzle_Game\\View\\Fifteen_Puzzle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:48:44.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Eight_Puzzle.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Eight_Puzzle.cs",
+              "RelativeDocumentMoniker": "N_Puzzle_Game\\View\\Eight_Puzzle.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Eight_Puzzle.cs",
+              "RelativeToolTip": "N_Puzzle_Game\\View\\Eight_Puzzle.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:48:28.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Eight_Puzzle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Eight_Puzzle.cs",
+              "RelativeDocumentMoniker": "N_Puzzle_Game\\View\\Eight_Puzzle.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\View\\Eight_Puzzle.cs [Design]",
+              "RelativeToolTip": "N_Puzzle_Game\\View\\Eight_Puzzle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:48:24.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Need.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\Model\\Need.cs",
+              "RelativeDocumentMoniker": "N_Puzzle_Game\\Model\\Need.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\Model\\Need.cs",
+              "RelativeToolTip": "N_Puzzle_Game\\Model\\Need.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:59:17.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "a_star.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\Model\\a_star.cs",
+              "RelativeDocumentMoniker": "N_Puzzle_Game\\Model\\a_star.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\AIfirst\\N_Puzzle_Game\\Model\\a_star.cs",
+              "RelativeToolTip": "N_Puzzle_Game\\Model\\a_star.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:48:19.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -91,18 +91,7 @@ namespace N_Puzzle_Game
             return rs;
         }
 
-        private void button2_Click(object sender, EventArgs e) 
-        {
-            OpenFileDialog choose = new OpenFileDialog();
-            choose.Filter =
-                "Image Files (JPEG, GIF, PNG , JPG) |*.jpeg; *.gif; *.png; *.jpg";
 
-            if (choose.ShowDialog() == DialogResult.OK)
-            {
-                pictureBox1.Image = Image.FromFile(choose.FileName);
-                path = choose.FileName;
-            }
-        }
 
         private void Fifteen_Puzzle_FormClosed(object sender, FormClosedEventArgs e)
         {
@@ -112,7 +101,7 @@ namespace N_Puzzle_Game
             }
         }
 
-        private void t_click(object sender, EventArgs e)
+   /*     private void t_click(object sender, EventArgs e)
         {
             if (radioButton2.Checked)
             {
@@ -126,14 +115,14 @@ namespace N_Puzzle_Game
                 if (x >= 310) this.Width = x;
                 else t.Stop();
             }
-        }
+        }*/
 
         private void Fifteen_Puzzle_Load(object sender, EventArgs e)
         {
-            this.Width = 310;
+            //this.Width = 310;
             t = new Timer();
             t.Interval = 5;
-            t.Tick += new EventHandler(t_click);
+            //t.Tick += new EventHandler(t_click);
             radioButton1.Checked = true;
             radioButton2.Checked = false;
         }

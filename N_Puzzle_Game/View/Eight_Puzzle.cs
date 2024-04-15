@@ -134,18 +134,7 @@ namespace N_Puzzle_Game
             return rs;
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            OpenFileDialog choose = new OpenFileDialog();
-            choose.Filter = 
-                "Image Files (JPEG, GIF, PNG , JPG) |*.jpeg; *.gif; *.png; *.jpg";
 
-            if (choose.ShowDialog() == DialogResult.OK)
-            {
-                pictureBox1.Image = Image.FromFile(choose.FileName);
-                path = choose.FileName;
-            }
-        }
 
         private void Eight_Puzzle_FormClosed(object sender, FormClosedEventArgs e)
         {
